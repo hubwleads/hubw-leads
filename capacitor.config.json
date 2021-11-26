@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "HubW Leads",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
